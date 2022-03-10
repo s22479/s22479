@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @s22479 known as Adam Wójcik
+- 👀 I’m interested in motorcycles :)
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on projects ;)
+- 📫 How to reach me? Dm me ;*
